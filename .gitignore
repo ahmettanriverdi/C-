@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# build artifacts
+*.o
+*.out
+
+# binaries
+ex00/ft_ft
+
+# editor backups
+*~
+*.swp
+
+# node
+node_modules/
